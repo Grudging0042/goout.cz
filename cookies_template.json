@@ -1,0 +1,6 @@
+{
+  "_PŘÍKLAD_": "Nahraď hodnoty skutečnými cookies z goout.net",
+  "_note_": "Viz instrukce níže jak získat cookies",
+  
+  "Poznámka": "POSTUP: 1) Otevři Chrome, 2) Přihlas se na goout.net, 3) Stiskni F12, 4) Application > Cookies > goout.net, 5) Zkopíruj hodnoty cookie _goout_session, token, nebo celý Cookie header z Network tabu"
+}
